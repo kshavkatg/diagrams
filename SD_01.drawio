@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="-zDqlCvs8vwu8jF6GkFP">
-    <mxGraphModel dx="1817" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="2736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,7 @@
         <mxCell id="InbcQs_QMR702Ag8rzXp-27" value="Non-functional" style="html=1;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="620" y="185" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-39" value="&lt;ol&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Data Display&lt;/li&gt;&lt;li&gt;Navigation&lt;/li&gt;&lt;li&gt;Device support&lt;/li&gt;&lt;li&gt;Offline Support&lt;/li&gt;&lt;li&gt;Product details&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="256.25" width="155" height="107.5" as="geometry" />
-        </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-40" value="&lt;ol&gt;&lt;li&gt;Performance&lt;/li&gt;&lt;li&gt;SEO optimization and web vitals&lt;/li&gt;&lt;li&gt;Scalability&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Security&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Maintainability&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="InbcQs_QMR702Ag8rzXp-40" value="&lt;ol&gt;&lt;li&gt;Performance&lt;/li&gt;&lt;li&gt;SEO optimization and web vitals&lt;/li&gt;&lt;li&gt;Scalability&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Security&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Maintainability&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="575" y="250" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="InbcQs_QMR702Ag8rzXp-41" value="&lt;ol&gt;&lt;li&gt;&lt;li&gt;**Requirements Exploration**: Understand the problem thoroughly and determine the scope by asking a number of clarifying questions.&lt;/li&gt;&lt;li&gt;*Architecture/High-level Design**: Identify the key components of the product and how they are related to each other.&lt;/li&gt;&lt;li&gt;**Data Model**: Describe the various data entities, the fields they contain and which component(s) they belong to.&lt;/li&gt;&lt;li&gt;**Interface Definition (API)**: Define the interface (API) between components in the product, functionality of each API, their parameters and responses.&lt;/li&gt;&lt;li&gt;**Optimizations and Deep Dive**: Discuss about possible optimization opportunities and specific areas of interest when building the product.&lt;/li&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
@@ -53,10 +50,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="InbcQs_QMR702Ag8rzXp-45" value="Components/Modules" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="438.75" width="145" height="40" as="geometry" />
+          <mxGeometry x="597.5" y="390" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-51" value="&lt;ol&gt;&lt;li&gt;Server&lt;/li&gt;&lt;li&gt;View&lt;/li&gt;&lt;li&gt;Controller&lt;/li&gt;&lt;li&gt;Model/Store&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="495" width="160" height="90" as="geometry" />
+        <mxCell id="InbcQs_QMR702Ag8rzXp-51" value="&lt;ol&gt;&lt;li&gt;Server&lt;/li&gt;&lt;li&gt;View&lt;/li&gt;&lt;li&gt;Controller&lt;/li&gt;&lt;li&gt;Model/Store&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="590" y="446.25" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="InbcQs_QMR702Ag8rzXp-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InbcQs_QMR702Ag8rzXp-57" target="InbcQs_QMR702Ag8rzXp-80">
           <mxGeometry relative="1" as="geometry" />
@@ -83,10 +80,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="410" as="sourcePoint" />
             <mxPoint x="410" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="InbcQs_QMR702Ag8rzXp-71" value="Identify the key components of the product and how they are related to each other." style="html=1;whiteSpace=wrap;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="381.25" width="270" height="57.5" as="geometry" />
+          <mxGeometry x="180" y="430" width="180" height="68.75" as="geometry" />
         </mxCell>
         <mxCell id="InbcQs_QMR702Ag8rzXp-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="InbcQs_QMR702Ag8rzXp-73" source="InbcQs_QMR702Ag8rzXp-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -154,14 +154,176 @@
         <mxCell id="InbcQs_QMR702Ag8rzXp-118" value="Temporary" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="785" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-120" value="&lt;ol&gt;&lt;li&gt;Input content&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;align=left;" vertex="1" parent="1">
+        <mxCell id="InbcQs_QMR702Ag8rzXp-120" value="&lt;ol&gt;&lt;li&gt;Input content&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;align=left;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="520" y="732" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-122" value="&lt;ol&gt;&lt;li&gt;Active tab&lt;/li&gt;&lt;li&gt;Validation state&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;align=left;" vertex="1" parent="1">
+        <mxCell id="InbcQs_QMR702Ag8rzXp-122" value="&lt;ol&gt;&lt;li&gt;Active tab&lt;/li&gt;&lt;li&gt;Validation state&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;align=left;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="780" y="732" width="130" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="InbcQs_QMR702Ag8rzXp-124" value="Data Model" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="InbcQs_QMR702Ag8rzXp-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InbcQs_QMR702Ag8rzXp-124" target="InbcQs_QMR702Ag8rzXp-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InbcQs_QMR702Ag8rzXp-124" target="InbcQs_QMR702Ag8rzXp-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InbcQs_QMR702Ag8rzXp-124" target="InbcQs_QMR702Ag8rzXp-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-124" value="API" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="435" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-127" value="Server-Client" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="255" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-129" value="Client-Client" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-39" value="&lt;ol&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Data Display&lt;/li&gt;&lt;li&gt;Navigation&lt;/li&gt;&lt;li&gt;Device support&lt;/li&gt;&lt;li&gt;Offline Support&lt;/li&gt;&lt;li&gt;Product details&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="256.25" width="155" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-131" value="&lt;ol&gt;&lt;li&gt;Client request&lt;/li&gt;&lt;li&gt;Server response&lt;/li&gt;&lt;li&gt;Parameters&lt;/li&gt;&lt;li&gt;Methods&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="920" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-132" value="&lt;ol&gt;&lt;li&gt;Data mutation&lt;/li&gt;&lt;li&gt;Component interfaces&lt;/li&gt;&lt;li&gt;Events and Listeners&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="610" y="920" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-135" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="InbcQs_QMR702Ag8rzXp-136" source="InbcQs_QMR702Ag8rzXp-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="830" as="sourcePoint" />
+            <mxPoint x="410" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-136" value="Define the interface between components in the product, functionality of the various APIs, their parameters and responses." style="html=1;whiteSpace=wrap;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="801.25" width="270" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InbcQs_QMR702Ag8rzXp-137" target="InbcQs_QMR702Ag8rzXp-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-137" value="Optimization" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-139" value="&lt;div&gt;- Performance&lt;/div&gt;&lt;div&gt;- User Experience&lt;/div&gt;&lt;div&gt;- Network&lt;/div&gt;&lt;div&gt;- Accessibility (a11y)&lt;/div&gt;&lt;div&gt;- Multilingual Support&lt;/div&gt;&lt;div&gt;- Multi-device Support&lt;/div&gt;&lt;div&gt;- Security&lt;/div&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBorderColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1070" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-141" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;shadow=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1280" width="770" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-142" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry width="770" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-143" value="Step" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontStyle=1;html=1;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-142">
+          <mxGeometry width="169" height="50" as="geometry">
+            <mxRectangle width="169" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-144" value="Objective" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontStyle=1;html=1;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-142">
+          <mxGeometry x="169" width="432" height="50" as="geometry">
+            <mxRectangle width="432" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-145" value="Recomended duration" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontStyle=1;html=1;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-142">
+          <mxGeometry x="601" width="169" height="50" as="geometry">
+            <mxRectangle width="169" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-146" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry y="50" width="770" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-147" value="Requirements Exploration" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-146">
+          <mxGeometry width="169" height="48" as="geometry">
+            <mxRectangle width="169" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-148" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: right;&quot;&gt;Understand the problem thoroughly and determine the scope by asking a number of clarifying questions.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-146">
+          <mxGeometry x="169" width="432" height="48" as="geometry">
+            <mxRectangle width="432" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-149" value="&amp;lt;15%" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-146">
+          <mxGeometry x="601" width="169" height="48" as="geometry">
+            <mxRectangle width="169" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-150" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry y="98" width="770" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-151" value="Architecture/High-level Design" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-150">
+          <mxGeometry width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-152" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: right;&quot;&gt;Identify the key components of the product and how they are related to each other.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-150">
+          <mxGeometry x="169" width="432" height="46" as="geometry">
+            <mxRectangle width="432" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-153" value="&amp;lt;15%" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-150">
+          <mxGeometry x="601" width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-154" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry y="144" width="770" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-155" value="Data Model" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;fontStyle=0;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-154">
+          <mxGeometry width="169" height="50" as="geometry">
+            <mxRectangle width="169" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-156" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: right;&quot;&gt;Describe the various data entities, the fields they contain and which component(s) they belong to.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;fontStyle=0;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-154">
+          <mxGeometry x="169" width="432" height="50" as="geometry">
+            <mxRectangle width="432" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-157" value="~10%" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;fontStyle=0;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-154">
+          <mxGeometry x="601" width="169" height="50" as="geometry">
+            <mxRectangle width="169" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-158" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry y="194" width="770" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-159" value="Interface Definition" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-158">
+          <mxGeometry width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-160" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: right;&quot;&gt;Define the interface between components in the product, functionality of the various APIs, their parameters and responses.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-158">
+          <mxGeometry x="169" width="432" height="46" as="geometry">
+            <mxRectangle width="432" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-161" value="~15%" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-158">
+          <mxGeometry x="601" width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-162" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-141">
+          <mxGeometry y="240" width="770" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-163" value="Optimizations and Deep Dive" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-162">
+          <mxGeometry width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-164" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: right;&quot;&gt;Discuss about possible optimization opportunities and specific areas of interest when building the product.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-162">
+          <mxGeometry x="169" width="432" height="46" as="geometry">
+            <mxRectangle width="432" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-165" value="~40%" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="InbcQs_QMR702Ag8rzXp-162">
+          <mxGeometry x="601" width="169" height="46" as="geometry">
+            <mxRectangle width="169" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-166" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="InbcQs_QMR702Ag8rzXp-167" source="InbcQs_QMR702Ag8rzXp-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="1020" as="sourcePoint" />
+            <mxPoint x="388" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InbcQs_QMR702Ag8rzXp-167" value="Discuss about possible optimization opportunities and specific areas of interest when building the product." style="html=1;whiteSpace=wrap;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-62" y="991.25" width="270" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
